@@ -1,7 +1,7 @@
 {
   "name": "opala-studios-music-metadata",
   "description": "Streaming music metadata parser for node and the browser.",
-  "version": "7.8.2",
+  "version": "7.8.3",
   "author": {
     "name": "Borewit",
     "url": "https://github.com/Borewit"
