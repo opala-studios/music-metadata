@@ -116,7 +116,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/borewit/music-metadata.git"
+    "url": "git+https://github.com/opala-studios/music-metadata.get"
   },
   "license": "MIT",
   "bugs": {
